@@ -1,0 +1,31 @@
+.card-dinamico {
+  background: #f8f9fa;
+  border: 1px solid #6c757d;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btn-remover {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.preview-container {
+  width: 595px;
+  min-height: 842px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+body {
+  background: #f8f9fa;
+}
+
+.nav-btns {
+  margin-top: 2rem;
+}
